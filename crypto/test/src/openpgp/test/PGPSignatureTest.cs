@@ -14,6 +14,7 @@ namespace Org.BouncyCastle.Bcpg.OpenPgp.Tests
 {
     [TestFixture]
     public class PgpSignatureTest
+
         : SimpleTest
     {
         private const int[] NO_PREFERENCES = null;
